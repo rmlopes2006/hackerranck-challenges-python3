@@ -17,7 +17,7 @@ operation on your list.
 
 n = int(input())
 
-my_list = [0, 1, 2, 3]
+my_list = []
 
 while n > 0:
     print('Você agora pode digitar {} comandos.'.format(n))
